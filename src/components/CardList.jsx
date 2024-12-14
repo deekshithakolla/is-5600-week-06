@@ -59,4 +59,4 @@ const CardList = ({ data }) => {
   );
 };
 
-export default CardList;
+export default
